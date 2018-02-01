@@ -19,12 +19,13 @@ body {
 }
 
 header {
+	font-size: 20pt;
 	display: flex;
 	margin: 0 auto;
 	padding-bottom: 5%;
 }
 .content {
-	padding-top: 5%;
+	padding: 5%;
 }
 
 nav {
@@ -32,6 +33,14 @@ nav {
 	align-self: center;
 	justify-content: space-between;
 }
+
+main {
+	font-size: 110%;
+	background-color: rgba(255,255,255,.9);
+	color: #99ccff;
+	border-radius: 5px;
+}
+
 
 ul {
 	list-style: none;
