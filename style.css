@@ -41,6 +41,10 @@ main {
 	border-radius: 5px;
 }
 
+span.c {
+	color: #CC6699;
+}
+
 
 ul {
 	list-style: none;
